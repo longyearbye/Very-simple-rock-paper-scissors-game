@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+body{
+    background: rgb(255,104,51);
+    background: linear-gradient(90deg, rgba(255,104,51,1) -1%, rgba(255,0,251,0.5256477591036415) 81%);
+    width: 100vh; 
+    background-size: cover;
+    background-position: center;
+}
+
+.container{
+    margin-top: 10%;
+    text-align: center;
+    background-color: white;
+    border-radius: 4%;
+    padding: 50px;
+    margin-left: 40%;
+}
+
+h1{
+    margin-bottom: 30px;
+    font-size: 34px;
+}
+
+button{
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.choices{
+    font-size: 20px;
+}
+
+#you{
+    margin-top: 25px;
+    font-size: 22px; 
+}
+
+#comp{
+    margin-top: 10px;
+    font-size: 22px; 
+}
+
+button{
+    background: lightcoral;
+}
